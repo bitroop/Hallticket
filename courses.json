@@ -1,0 +1,39 @@
+{
+    "CSE_III": [
+        {
+            "code": "21MAB206T",
+            "desc": "NUMERICAL METHODS AND ANALYSIS",
+            "ra": "R",
+            "date": "01.09.2025",
+            "session": "FN"
+        },
+        {
+            "code": "21CSC203P",
+            "desc": "ADVANCED PROGRAMMING PRACTICE",
+            "ra": "R",
+            "date": "02.09.2025",
+            "session": "FN"
+        },
+        {
+            "code": "21CSS201T",
+            "desc": "COMPUTER ORGANIZATION AND ARCHITECTURE ",
+            "ra": "R",
+            "date": "03.09.2025",
+            "session": "FN"
+        },
+        {
+            "code": "21CSC201J",
+            "desc": "DATA STRUCTURES AND ALGORITHMS",
+            "ra": "R",
+            "date": "04.09.2025",
+            "session": "FN"
+        },
+        {
+            "code": "21CSC202J",
+            "desc": "OPERATING SYSTEMS",
+            "ra": "R",
+            "date": "05.09.2025",
+            "session": "FN"
+        }
+    ]
+}
